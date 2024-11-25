@@ -1,0 +1,75 @@
+{
+    "2024-11": {
+        "categories": {
+            "Commercial": {
+                "typologies": {
+                    "Supermarkets": {
+                        "count": 2,
+                        "keywords": {
+                            "fresh produce": 1,
+                            "discounts": 1
+                        }
+                    },
+                    "Restaurants": {
+                        "count": 1,
+                        "keywords": {
+                            "fast food": 1,
+                            "family-friendly": 1
+                        }
+                    }
+                }
+            },
+            "Public Spaces": {
+                "typologies": {
+                    "Parks": {
+                        "count": 1,
+                        "keywords": {
+                            "green space": 1,
+                            "playground": 1
+                        }
+                    },
+                    "Playgrounds": {
+                        "count": 2,
+                        "keywords": {
+                            "swings": 1,
+                            "slides": 1
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "2024-12": {
+        "categories": {
+            "Retail Spaces": {
+                "typologies": {
+                    "Boutiques": {
+                        "count": 1,
+                        "keywords": {
+                            "luxury": 1,
+                            "handmade": 1
+                        }
+                    },
+                    "Malls": {
+                        "count": 1,
+                        "keywords": {
+                            "shopping center": 1,
+                            "clothing": 1
+                        }
+                    }
+                }
+            },
+            "Commercial": {
+                "typologies": {
+                    "Supermarkets": {
+                        "count": 1,
+                        "keywords": {
+                            "organic": 1,
+                            "bulk items": 1
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
